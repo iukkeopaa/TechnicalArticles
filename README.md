@@ -5,4 +5,6 @@
 
 ## 得物技术
 
-```https://tech.dewu.com/```
+```java
+https://tech.dewu.com/
+```
