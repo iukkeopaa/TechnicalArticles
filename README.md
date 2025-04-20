@@ -5,6 +5,7 @@
 + [美团技术](#美团技术)
 + [有赞技术](#有赞技术)
 + [小米信息部技术团队](#小米信息部技术团队)
++ [伴鱼技术](#伴鱼技术)
 
 #### 得物技术
 
@@ -31,3 +32,10 @@ https://tech.youzan.com/
 ```java
 https://xiaomi-info.github.io/tags/
 ````
+
+
+#### 伴鱼技术
+
+```java
+https://tech.ipalfish.com/blog/
+```
