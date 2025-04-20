@@ -4,6 +4,7 @@
 + [得物技术](#得物技术)
 + [美团技术](#美团技术)
 + [有赞技术](#有赞技术)
++ [小米信息部技术团队](#小米信息部技术团队)
 
 #### 得物技术
 
@@ -24,3 +25,9 @@ https://tech.meituan.com/
 ```java
 https://tech.youzan.com/
 ```
+
+#### 小米信息部技术团队
+
+```java
+https://xiaomi-info.github.io/tags/
+````
